@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GeekBrains\\GB\\Lesson_1\\Lesson_1.csproj": {}
+    "C:\\Users\\User\\Desktop\\GB_1Kurs\\GB\\Lesson_1\\Lesson_1.csproj": {}
   },
   "projects": {
-    "C:\\GeekBrains\\GB\\Lesson_1\\Lesson_1.csproj": {
+    "C:\\Users\\User\\Desktop\\GB_1Kurs\\GB\\Lesson_1\\Lesson_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GeekBrains\\GB\\Lesson_1\\Lesson_1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\GB_1Kurs\\GB\\Lesson_1\\Lesson_1.csproj",
         "projectName": "Lesson_1",
-        "projectPath": "C:\\GeekBrains\\GB\\Lesson_1\\Lesson_1.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\GB_1Kurs\\GB\\Lesson_1\\Lesson_1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\GeekBrains\\GB\\Lesson_1\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\GB_1Kurs\\GB\\Lesson_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
