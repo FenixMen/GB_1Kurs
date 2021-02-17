@@ -4,7 +4,19 @@ namespace Lesson2_2
 {
     class Program
     {
-
+        enum Mounth
+        {
+            January = 1,
+            February,
+            March,
+            April,
+            May,
+            June,
+            July,
+            August,
+            September,
+            October
+        }
 
         static void Main(string[] args)
         {
@@ -17,43 +29,43 @@ namespace Lesson2_2
             switch (isMounth)
             {
                 case 1:
-                    Console.WriteLine($"Текущий месяц Январь");
+                    Console.WriteLine($"Switch:\tТекущий месяц Январь");
                     break;
                 case 2:
-                    Console.WriteLine($"Текущий месяц Февраль");
+                    Console.WriteLine($"Switch:\tТекущий месяц Февраль");
                     break;
                 case 3:
-                    Console.WriteLine($"Текущий месяц Март");
+                    Console.WriteLine($"Switch:\tТекущий месяц Март");
                     break;
                 case 4:
-                    Console.WriteLine($"Текущий месяц Апрель");
+                    Console.WriteLine($"Switch:\tТекущий месяц Апрель");
                     break;
                 case 5:
-                    Console.WriteLine($"Текущий месяц Май");
+                    Console.WriteLine($"Switch:\tТекущий месяц Май");
                     break;
                 case 6:
-                    Console.WriteLine($"Текущий месяц Июнь");
+                    Console.WriteLine($"Switch:\tТекущий месяц Июнь");
                     break;
                 case 7:
-                    Console.WriteLine($"Текущий месяц Июль");
+                    Console.WriteLine($"Switch:\tТекущий месяц Июль");
                     break;
                 case 8:
-                    Console.WriteLine($"Текущий месяц Август");
+                    Console.WriteLine($"Switch:\tТекущий месяц Август");
                     break;
                 case 9:
-                    Console.WriteLine($"Текущий месяц Сентябрь");
+                    Console.WriteLine($"Switch:\tТекущий месяц Сентябрь");
                     break;
                 case 10:
-                    Console.WriteLine($"Текущий месяц Октябрь");
+                    Console.WriteLine($"Switch:\tТекущий месяц Октябрь");
                     break;
                 case 11:
-                    Console.WriteLine($"Текущий месяц Ноябрь");
+                    Console.WriteLine($"Switch:\tТекущий месяц Ноябрь");
                     break;
                 case 12:
-                    Console.WriteLine($"Текущий месяц Декабрь");
+                    Console.WriteLine($"Switch:\tТекущий месяц Декабрь");
                     break;
             }
-
+            Console.WriteLine($"Enum:\tТекущий месяц {(Mounth)isMounth}");
         }
     }
 }
