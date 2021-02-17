@@ -1,0 +1,13 @@
+C:\GeekBrains\GB\GB\bin\Debug\netcoreapp3.1\Lesson 1.exe
+C:\GeekBrains\GB\GB\bin\Debug\netcoreapp3.1\Lesson 1.deps.json
+C:\GeekBrains\GB\GB\bin\Debug\netcoreapp3.1\Lesson 1.runtimeconfig.json
+C:\GeekBrains\GB\GB\bin\Debug\netcoreapp3.1\Lesson 1.runtimeconfig.dev.json
+C:\GeekBrains\GB\GB\bin\Debug\netcoreapp3.1\Lesson 1.dll
+C:\GeekBrains\GB\GB\bin\Debug\netcoreapp3.1\Lesson 1.pdb
+C:\GeekBrains\GB\GB\obj\Debug\netcoreapp3.1\Lesson 1.csprojAssemblyReference.cache
+C:\GeekBrains\GB\GB\obj\Debug\netcoreapp3.1\Lesson 1.AssemblyInfoInputs.cache
+C:\GeekBrains\GB\GB\obj\Debug\netcoreapp3.1\Lesson 1.AssemblyInfo.cs
+C:\GeekBrains\GB\GB\obj\Debug\netcoreapp3.1\Lesson 1.csproj.CoreCompileInputs.cache
+C:\GeekBrains\GB\GB\obj\Debug\netcoreapp3.1\Lesson 1.dll
+C:\GeekBrains\GB\GB\obj\Debug\netcoreapp3.1\Lesson 1.pdb
+C:\GeekBrains\GB\GB\obj\Debug\netcoreapp3.1\Lesson 1.genruntimeconfig.cache
