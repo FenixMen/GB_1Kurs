@@ -11,3 +11,16 @@ C:\Home_work\GB_1Kurs\GB\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.pdb
 C:\Home_work\GB_1Kurs\GB\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.dll
 C:\Home_work\GB_1Kurs\GB\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.pdb
 C:\Home_work\GB_1Kurs\GB\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.genruntimeconfig.cache
+C:\Users\User\Desktop\GB_1Kurs\GB\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GB_1Kurs\GB\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB_1Kurs\GB\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfo.cs
+C:\Users\User\Desktop\GB_1Kurs\GB\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB_1Kurs\GB\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.dll
+C:\Users\User\Desktop\GB_1Kurs\GB\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.pdb
+C:\Users\User\Desktop\GB_1Kurs\GB\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.exe
+C:\Users\User\Desktop\GB_1Kurs\GB\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.deps.json
+C:\Users\User\Desktop\GB_1Kurs\GB\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.json
+C:\Users\User\Desktop\GB_1Kurs\GB\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.dev.json
+C:\Users\User\Desktop\GB_1Kurs\GB\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.dll
+C:\Users\User\Desktop\GB_1Kurs\GB\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.pdb
+C:\Users\User\Desktop\GB_1Kurs\GB\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.genruntimeconfig.cache
