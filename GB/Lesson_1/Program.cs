@@ -1,19 +1,42 @@
 ﻿using System;
 
-namespace GB
+namespace Lesson2_1
 {
+    // Запросить у пользователя минимальную и максимальную температуру за сутки и вывести среднесуточную температуру.
+    //(*) Если пользователь указал месяц из зимнего периода, а средняя температура > 0, вывести сообщение «Дождливая зима».
     class Program
     {
+        enum Mounth
+        {
+            January = 1,
+            February,
+            March,
+            April,
+            May,
+            June,
+            July,
+            August,
+            September,
+            October,
+            November,
+            December
+        }
         static void Main(string[] args)
         {
-            DateTime date = new DateTime(2021, 02, 18);
-
-            Console.WriteLine("Как вас зовут?");
-            string name = Console.ReadLine();
-            if (name.ToLower() == "андрей кучма")
-                Console.WriteLine($"Здравствуй сансей! Не забудьте, что следующее занятие состоится [{date.ToLongDateString()}].");
+            Console.WriteLine("Вычисление среднесуточной температуры за сутки");
+            Console.WriteLine("Введите минимальное значение температуры");
+            int minValue = int.Parse(Console.ReadLine());
+            Console.WriteLine("Введите максимальное значение температуры");
+            int maxValue = int.Parse(Console.ReadLine());
+            int mediumValue = (minValue + maxValue) / 2;
+        Console.WriteLine("Введите номер текущего месяца");
+            int isMounth = int.Parse(Console.ReadLine());
+            if ((isMounth == 12 || isMounth == 1 || isMounth == 2) && mediumValue > 0)
+                Console.WriteLine($"Среднесуточная температура = {mediumValue}°, текущий месяц - {(Mounth)isMounth}\n Выдалась дожливая зима!");
             else
-                Console.WriteLine($"Привет {name}! Сегодня [{DateTime.Now}].");
+            Console.WriteLine($"Среднесуточная температура = {mediumValue}°, текущий месяц - {(Mounth)isMounth}.");
+
         }
     }
 }
+
